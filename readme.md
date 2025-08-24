@@ -1,4 +1,4 @@
-![Shoppin](./public/pv-shoppin.png)
+![Shoppin](./client_side/public/pv-shoppin.png)
 
 ### Shoppin (A e-Commerce Website)
 
@@ -12,6 +12,6 @@
 - Displayed related products in product view page.
 - Users can log in to this website using Google and Email-Password.
 
-###### [Server Code]() | [Live](https://shoppin.vercel.app)
+###### [Server Code](https://github.com/programmer-kabir/Shoppin/tree/main/client_side) | [Live](https://shoppin.vercel.app)
 
-###### [Client Code]()
+###### [Client Code](https://github.com/programmer-kabir/Shoppin/tree/main/server_side)
